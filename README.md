@@ -1,4 +1,5 @@
 # CSCI458Final
+
 Logan Gray and Keyes Dorsey
 Meeting 1: Introduction to Git and Creation of Table Schema
 
